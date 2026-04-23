@@ -90,7 +90,7 @@ return;
         return (current != NULL);
     }
 
-    // commit 4
+    // commit 6
 
 
     bool delNode(int nim)
