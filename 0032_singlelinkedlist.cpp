@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 
+
 class Node
 {
 public:
@@ -28,6 +29,8 @@ class LinkedList
 
         Node *nodeBaru = new Node;
         nodeBaru->noMhs = nim;
+
+        //commit 3
 
 if (START == NULL || nim <= START->noMhs)
      {
