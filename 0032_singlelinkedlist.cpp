@@ -69,6 +69,8 @@ return;
      previous->next = nodeBaru;
     }
 
+    // commit 5
+
     bool listEmpty()
     {
         return (START == NULL);
