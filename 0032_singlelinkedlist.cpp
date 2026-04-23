@@ -34,6 +34,8 @@ class LinkedList
         Node *nodeBaru = new Node;
         nodeBaru->noMhs = nim;
 
+        // commit 3
+
 if (START == NULL || nim <= START->noMhs)
      {
         if (START != NULL && nim == START->noMhs)
