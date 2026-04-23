@@ -43,8 +43,6 @@ if (START == NULL || nim <= START->noMhs)
         return;
      }
 
-     // commit 4
-
      Node *previous =START;
      Node *current = START;
 
@@ -81,6 +79,8 @@ return;
 
         return (current != NULL);
     }
+
+    // commit 5
 
 
     bool delNode(int nim)
